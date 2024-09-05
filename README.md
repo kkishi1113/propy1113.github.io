@@ -47,3 +47,29 @@ Citations:
 [13] https://kinsta.com/jp/blog/react-components-library/
 [14] https://zenn.dev/uttk/articles/926494c3bb9950fd04ad
 [15] https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea
+
+
+
+
+
+
+
+# 参考URLをリスト
+
+| URL | File Name | Description |
+| --- | --- | --- |
+|  https://v2.chakra-ui.com/docs/components | Components | Chakra UIは、プロジェクトを迅速に構築するための事前構築されたコンポーネントを提供します。 |
+|  https://www.radix-ui.com | Radix UI | 開発を迅速化し、メンテナンスを容易化し、アクセシビリティを優先したオープンソースのコンポーネントライブラリです。 |
+|  https://nextui.org | NextUI - 美しい、高速でモダンなReact UIライブラリ | アクセシビリティとカスタマイズを重視した完全なReact UIライブラリです。 |
+|  https://github.com/chakra-ui/chakra-ui | Chakra UI GitHub Repository | Chakra UIの公式GitHubリポジトリです。 |
+|  https://github.com/mui/material-ui/actions/runs/10376948576 | Material UI GitHub Actions | Material UIの特定のGitHub Actions実行です。 |
+|  https://github.com/tripss/nx-extend/tree/master/packages/shadcn-ui | Shadcn UI GitHub Repository | Nx Extendリポジトリ内のパッケージです。 |
+|  https://v3.mui.com/versions/ | Material UIバージョン | Material UIのバージョンリストです。 |
+|  https://prismic.io/blog/react-component-libraries | Prismic Blog - Reactコンポーネントライブラリ | Reactコンポーネントライブラリについての記事です。 |
+|  https://stackoverflow.com/questions/71566842/material-ui-licence | Stack Overflow - Material UIライセンス | Material UIのライセンスについての質問です。 |
+|  https://nju33.com/notes/material-ui/articles/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8C%96 | Material UI日本語ローカライズ | Material UIの日本語ローカライズについての記事です。 |
+|  https://github.com/ant-design/ant-design/releases | Ant Designリリース | Ant Designのリリースリストです。 |
+|  https://mui.com/versions/ | Material UIバージョン | Material UIのバージョンリストです。 |
+|  https://kinsta.com/jp/blog/react-components-library/ | Kinsta Blog - Reactコンポーネントライブラリ | Reactコンポーネントライブラリについての記事です。 |
+|  https://zenn.dev/uttk/articles/926494c3bb9950fd04ad | Zenn - Reactコンポーネントライブラリ | Reactコンポーネントライブラリについての記事です。 |
+|  https://qiita.com/kyrieleison/items/39ce30dd2d204791a9ea | Qiita - Reactコンポーネントライブラリ | Reactコンポーネントライブラリについての記事です。 |
